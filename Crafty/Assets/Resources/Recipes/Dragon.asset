@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7f905dded303a24a84792fc72f944ee, type: 3}
+  m_Name: Dragon
+  m_EditorClassIdentifier: 
+  input01: {fileID: 11400000, guid: 67d1cd0a87f495842b112eeb83e70f85, type: 2}
+  input02: {fileID: 11400000, guid: 94bfcbbd6589515419d4c92ea35dabf3, type: 2}
+  result: {fileID: 11400000, guid: c758549baa3c77d4bb6fe60cb8209909, type: 2}
+  altInput01: {fileID: 11400000, guid: 67d1cd0a87f495842b112eeb83e70f85, type: 2}
+  altInput02: {fileID: 11400000, guid: e368e995395308b4697a7a9ff5f332ce, type: 2}

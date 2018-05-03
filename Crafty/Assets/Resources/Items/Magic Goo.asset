@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e042b4c80c76724aabd39a6d5dacf25, type: 3}
+  m_Name: Magic Goo
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 44642a48ab7fe2b4e9ccccc5bcb80051, type: 3}
+  discoveryText: What is this? You stumble upon a magical pressence in the form of...
+    Goo. Eeeeeeeeew!
+  discoveryTitle: DISCOVERED!
+  customColor: {r: 0.1335424, g: 0.9558824, b: 0.9558824, a: 1}
+  customSound: MagicChord01
+  itemObject: {fileID: 0}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7f905dded303a24a84792fc72f944ee, type: 3}
+  m_Name: Meat
+  m_EditorClassIdentifier: 
+  input01: {fileID: 11400000, guid: ae1c6064e6848e740b7a8addb678d856, type: 2}
+  input02: {fileID: 11400000, guid: 3210aabfd90ac7d4ea57e9e61efe4d88, type: 2}
+  result: {fileID: 11400000, guid: 84fa99f3368ba35448aa57463ccf1635, type: 2}
+  altInput01: {fileID: 11400000, guid: 9d50624cb663ae14bbecb099154da1a5, type: 2}
+  altInput02: {fileID: 11400000, guid: 3210aabfd90ac7d4ea57e9e61efe4d88, type: 2}
